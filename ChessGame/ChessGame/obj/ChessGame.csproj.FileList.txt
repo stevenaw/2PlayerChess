@@ -1,0 +1,25 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ChessGame.Main.resources
+obj\Debug\ChessGame.Properties.Resources.resources
+obj\Debug\ChessGame.csproj.GenerateResource.Cache
+bin\Debug\ChessGame.exe
+bin\Debug\ChessGame.pdb
+obj\Debug\ChessGame.exe
+obj\Debug\ChessGame.pdb
+obj\Debug\ChessGame.Board2.resources
+obj\Debug\ChessGame.CreateProfile.resources
+obj\Debug\ChessGame.ChoosePiece.resources
+bin\Debug\Database1.mdf
+bin\Debug\Database1_log.ldf
+bin\Debug\ChessGame.exe.config
+obj\Debug\ChessGame.HelpAbout.resources
+obj\Debug\ChessGame.ConfirmationBox.resources
+obj\Debug\ChessGame.HelpPlay.resources
+bin\Debug\AdvMovement.txt
+bin\Debug\Basic Tactics.txt
+bin\Debug\BasicMovement.txt
+bin\Debug\Overview.txt
+bin\Debug\ChessGame.exe.manifest
+bin\Debug\ChessGame.application
+obj\Debug\ChessGame.exe.manifest
+obj\Debug\ChessGame.application

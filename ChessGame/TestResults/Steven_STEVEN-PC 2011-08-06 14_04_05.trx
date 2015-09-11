@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7169460d-3bbd-4e3b-b91f-948e2a504a48" name="Steven@STEVEN-PC 2011-08-06 14:04:05" runUser="Steven-PC\Steven" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="07abd846-44fb-41a5-be67-815623a78258">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\TestResults\Steven_STEVEN-PC 2011-08-06 14_04_05">
+      <DeploymentItem filename="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-08-06T14:04:05.9816000-04:00" queuing="2011-08-06T14:04:07.4836000-04:00" start="2011-08-06T14:04:07.6906000-04:00" finish="2011-08-06T14:04:08.2366000-04:00" />
+  <TestDefinitions>
+    <UnitTest name="TestInvalidEmpty" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="e784f339-a427-d29a-6f47-a5c9989211d2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c457dd8f-0ae1-45f7-a734-7f35a3f60db2" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidEmpty" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e784f339-a427-d29a-6f47-a5c9989211d2" executionId="c457dd8f-0ae1-45f7-a734-7f35a3f60db2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c457dd8f-0ae1-45f7-a734-7f35a3f60db2" testId="e784f339-a427-d29a-6f47-a5c9989211d2" testName="TestInvalidEmpty" computerName="STEVEN-PC" duration="00:00:00.0454179" startTime="2011-08-06T14:04:07.7906000-04:00" endTime="2011-08-06T14:04:08.1436000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

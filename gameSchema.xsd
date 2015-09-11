@@ -1,0 +1,36 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="game" type="Game"/>
+	    <xs:complexType name="Game">
+	        <xs:sequence>
+	            <xs:element ref="moveSet" minOccurs="1" maxOccurs="unbounded" />
+	            <xs:element ref="player" minOccurs="2" maxOccurs="2" />
+	        </xs:sequence>
+			<xs:attribute name="datePlayed" type="xs:date" />
+	    </xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="moveSet" type="MoveSet">
+		<xs:sequence>
+			<xs:element ref="turn" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="turn" type="Turn">
+		<xs:sequence>
+			<xs:element ref="move" minOccurs="1" maxOccurs="2" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="move" type="Move">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(B|K|Q|N|R| )[A-Ha-h]{1}[1-8]{1}-[A-Ha-h]{1}[1-8]{1}"/>
+		</xs:restriction>
+	</xs:complexType>
+	
+	<xs:complexType name="player" type="Player">
+		<xs:attribute name="name" type="xs:string" />
+		<xs:attribute name="startRating" type="xs:integer" />
+		<xs:attribute name="endRating" type="xs:integer" />
+		<xs:attribute name="color" type="xs:string" />
+	</xs:complexType>
+</xs:schema>

@@ -1,0 +1,7 @@
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Release\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Release\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Release\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Release\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Release\ChessGameLib.pdb

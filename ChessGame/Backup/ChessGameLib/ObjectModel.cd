@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ChessGameLib.Bishop" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bishop.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Piece" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Piece.cs</FileName>
+      <HashCode>EAAAAAAACAAAEAAGAAAAAgAAAAAAACAAAAAgQBACAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Knight" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Knight.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Pawn" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Pawn.cs</FileName>
+      <HashCode>AAAAAAAACAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Queen" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Queen.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.King" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>King.cs</FileName>
+      <HashCode>AAAgAAAAAAAAEAAAAAAIAAAAAAAAACAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Rook" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Rook.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.Game" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Game.cs</FileName>
+      <HashCode>gAAAAREAMEJACgAICIAgYEAAIAOABEBSIAAQGJCAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.ChessMove" Collapsed="true">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ChessMove.cs</FileName>
+      <HashCode>EAAAAAAAAyAAAQAEgCAAMRAACAFYQIACCAAMAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.GameSerializer" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameSerializer.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAgAAAAAAAAAAAACAAAABCAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.PlayerXML" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlayerXML.cs</FileName>
+      <NewMemberFileName>PlayerDAT.cs</NewMemberFileName>
+      <HashCode>IAAIAAAAAAAAAAAAAAAAAAAAAAAAAABAAEQAAEgAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="ChessGameLib.PlayerSQL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlayerSQL.cs</FileName>
+      <HashCode>IAAIAAAAAAAAAAQAAAAAAAAAAAQAAABAAAAAAEAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ChessGameLib.Player" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Player.cs</FileName>
+      <HashCode>EAFAAACAQAAggAAEoAAAAAQBAQAEQMlgAAAAIBAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.PlayerCollection" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlayerCollection.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessGameLib.BoardPositions" Collapsed="true">
+    <Position X="16.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BoardPositions.cs</FileName>
+      <HashCode>AAAgAAAAIAAAAAAAAIIAAgQAAAAAEAAAAAEAAAFCAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ChessGameLib.IPlayerDB" Collapsed="true">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IPlayerDB.cs</FileName>
+      <HashCode>IAAIAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

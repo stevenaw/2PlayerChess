@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChessGame">
+</Property><Property Name="Solution File" Value="C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame.sln">
+</Property><Property Name="Date" Value="November-18-09">
+</Property><Property Name="Time" Value="16:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ChessGame" Source="ChessGame\ChessGame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChessGame" Source="ChessGame\ChessGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChessGameLib" Source="ChessGameLib\ChessGameLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChessGameLib" Source="ChessGameLib\ChessGameLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChessGame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ChessGame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChessGame" Source="ChessGame\ChessGame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ChessGameLib" Source="ChessGameLib\ChessGameLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

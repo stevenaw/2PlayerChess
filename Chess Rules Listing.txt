@@ -1,0 +1,28 @@
+- Move Can't End While in Check (Covers Pins, Castling into Check, Moving into Check)
+- Capturing (only opposing colour)
+- Checkmating
+- Castling
+- Drawing
+	- Stalemate
+	- Draw by Repetition
+	- 25 Move Rule
+	- Draw Positions (Disregard ifpawn is on board)
+		- King vs. King
+		- King vs. King and Knight or Bishop
+		- King vs. King and 2x Knights
+- Regular Piece Movement
+	- Exceptions
+		- King
+			- Can't castle while in check
+			- Can't castle through check
+			- Castling kingside and queenside
+		- Pawn
+			- Capturing
+			- Initial movement (2 squares or 1)
+			- En Passant
+			- Pawn Promotion
+		- Rook
+			- Castling
+- Detect if Piece is in Way of Movement or Attack
+
+- Page repeatedly tries to reload. Won't reload unless move is made by either side. Once reloads succfully, wait for next move.

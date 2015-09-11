@@ -1,0 +1,96 @@
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\Database1.mdf
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\Database1_log.ldf
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe.manifest
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.application
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Board2.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.ChoosePiece.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.ConfirmationBox.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.CreateProfile.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.FENSpecifier.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.HelpAbout.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.HelpPlay.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Main.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.exe.manifest
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.application
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\Database1.mdf
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\Database1_log.ldf
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe.manifest
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.application
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\bin\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Board2.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.ChoosePiece.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.ConfirmationBox.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.CreateProfile.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.FENSpecifier.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.HelpAbout.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.HelpPlay.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Main.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.exe.manifest
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.application
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\Database1.mdf
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\Database1_log.ldf
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe.manifest
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.application
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Board2.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.ChoosePiece.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.ConfirmationBox.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.CreateProfile.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.FENSpecifier.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.HelpAbout.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.HelpPlay.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Main.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.exe.manifest
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.application
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\Database1.mdf
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\Database1_log.ldf
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe.manifest
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.application
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\bin\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Board2.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.ChoosePiece.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.ConfirmationBox.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.CreateProfile.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.FENSpecifier.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.HelpAbout.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.HelpPlay.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Main.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.exe.manifest
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGame\obj\Debug\ChessGame.application

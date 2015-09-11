@@ -1,0 +1,22 @@
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - 2008\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll.config
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll.config
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.pdb

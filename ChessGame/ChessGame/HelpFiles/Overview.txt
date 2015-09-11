@@ -1,0 +1,13 @@
+Chess is a centuries-old game rooted deep in medieval history.
+
+Each player takes a colour (white moving first) and takes turns moving pieces to try and force the other player into submission by capturing their King. This means that not ending a move while you yourself are in check is one of the cardinal rules to abide by in Chess. This rule is the reason for 3 key tactics to use when playing chess, the Fork, Skewer, and Pin (discussed in Basic Tactics).
+
+When moving pieces, players can not move onto their own pieces, though they can move to empty squares or squares occupied by an enemy's pieces. When they move to a square occupied by an enemy's piece, that piece is said to be captured, and is removed from the board and is out of play. Most pieces can not be moved through other pieces; if there is another piece between the square you want to go to and are at now, you probably can not move there.
+
+When a king is being attacked, it is said that he is in Check, and he must then use his next move to get himself out of check. There are a couple ways to accomplish this. He can take the piece placing the attack on him, rendering the attack neutralized, or he can block it by moving a piece in the way. A third and simplest way is simply to move out of the way of the attack.
+
+If a King is in check and unable to avoid the attack, he said to have been checkmated, and the game is lost for him. If, however, he is not in check and has no legal moves to make with any of his piece (moves that will not leave him in check), the game game is considered drawn, or a tie.
+
+There are other ways for a game to end in a draw. If the same board position is repeated 3 times, the game is considered a draw. This does not necessarily just mean moving the same pieces on each side back and forth 3 times, it can be over a span of many more moves, but the placement of every piece on the board (for both sides) must be the same for three of those situations.
+
+Another situation that a game might be drawn in is if 50 full moves (1 for black, 1 for white) pass without a piece being taken or a pawn moving. Alernatively, if enough pieces are taken that not enough material exists to force a checkmate, a draw can be claimed. The only situations that this may arise in are when each side has either a bishop and a knight, 2 knights, or just one knight.

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4b429767-b489-4df1-90a1-a3602fa197f7" name="Steven@STEVEN-PC 2011-08-07 09:07:07" runUser="Steven-PC\Steven" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="07abd846-44fb-41a5-be67-815623a78258">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\TestResults\Steven_STEVEN-PC 2011-08-07 09_07_07">
+      <DeploymentItem filename="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-08-07T09:07:07.2400000-04:00" queuing="2011-08-07T09:07:07.6060000-04:00" start="2011-08-07T09:07:07.6520000-04:00" finish="2011-08-07T09:07:07.7420000-04:00" />
+  <TestDefinitions>
+    <UnitTest name="TestCtorPopulated" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="99c6043e-1d64-0a23-cea2-2c10bb772967">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ee87832d-f446-4ea2-866f-64b67b538f29" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.BitBoardTest, ChessGameLib.Test" name="TestCtorPopulated" />
+    </UnitTest>
+    <UnitTest name="TestAddPositionCoord" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="1671ee1c-9c9b-37c4-da44-a80ca790c5a5">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="39f477bd-8b77-4087-a8a4-72784e678327" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.BitBoardTest, ChessGameLib.Test" name="TestAddPositionCoord" />
+    </UnitTest>
+    <UnitTest name="TestCtorEmpty" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="80dafed7-d294-177c-94a5-6f278793eca8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="93b17229-ea7e-4160-bfce-857c5cdc0d40" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.BitBoardTest, ChessGameLib.Test" name="TestCtorEmpty" />
+    </UnitTest>
+    <UnitTest name="TestRemovePositionCoord" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="9ed0bdee-90be-b1a7-4219-1f5fa2daaa73">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2866b319-56fd-421c-ad9f-a3b13f583bdf" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.BitBoardTest, ChessGameLib.Test" name="TestRemovePositionCoord" />
+    </UnitTest>
+    <UnitTest name="TestContainsPositionCoord" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="71abf539-4528-46af-25ac-59ff4a1f0d8d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a2927e15-1cb7-475b-aa9d-7981e55b03fc" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.BitBoardTest, ChessGameLib.Test" name="TestContainsPositionCoord" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1671ee1c-9c9b-37c4-da44-a80ca790c5a5" executionId="39f477bd-8b77-4087-a8a4-72784e678327" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="71abf539-4528-46af-25ac-59ff4a1f0d8d" executionId="a2927e15-1cb7-475b-aa9d-7981e55b03fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="80dafed7-d294-177c-94a5-6f278793eca8" executionId="93b17229-ea7e-4160-bfce-857c5cdc0d40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99c6043e-1d64-0a23-cea2-2c10bb772967" executionId="ee87832d-f446-4ea2-866f-64b67b538f29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ed0bdee-90be-b1a7-4219-1f5fa2daaa73" executionId="2866b319-56fd-421c-ad9f-a3b13f583bdf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="39f477bd-8b77-4087-a8a4-72784e678327" testId="1671ee1c-9c9b-37c4-da44-a80ca790c5a5" testName="TestAddPositionCoord" computerName="STEVEN-PC" duration="00:00:00.0045160" startTime="2011-08-07T09:07:07.6530000-04:00" endTime="2011-08-07T09:07:07.7200000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a2927e15-1cb7-475b-aa9d-7981e55b03fc" testId="71abf539-4528-46af-25ac-59ff4a1f0d8d" testName="TestContainsPositionCoord" computerName="STEVEN-PC" duration="00:00:00.0010139" startTime="2011-08-07T09:07:07.7230000-04:00" endTime="2011-08-07T09:07:07.7270000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="93b17229-ea7e-4160-bfce-857c5cdc0d40" testId="80dafed7-d294-177c-94a5-6f278793eca8" testName="TestCtorEmpty" computerName="STEVEN-PC" duration="00:00:00.0002616" startTime="2011-08-07T09:07:07.7270000-04:00" endTime="2011-08-07T09:07:07.7300000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ee87832d-f446-4ea2-866f-64b67b538f29" testId="99c6043e-1d64-0a23-cea2-2c10bb772967" testName="TestCtorPopulated" computerName="STEVEN-PC" duration="00:00:00.0013362" startTime="2011-08-07T09:07:07.7310000-04:00" endTime="2011-08-07T09:07:07.7350000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2866b319-56fd-421c-ad9f-a3b13f583bdf" testId="9ed0bdee-90be-b1a7-4219-1f5fa2daaa73" testName="TestRemovePositionCoord" computerName="STEVEN-PC" duration="00:00:00.0004077" startTime="2011-08-07T09:07:07.7360000-04:00" endTime="2011-08-07T09:07:07.7380000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

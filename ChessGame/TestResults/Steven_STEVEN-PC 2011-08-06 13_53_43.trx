@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="66b6e78d-5b1e-4db9-b036-938a80783a40" name="Steven@STEVEN-PC 2011-08-06 13:53:43" runUser="Steven-PC\Steven" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="07abd846-44fb-41a5-be67-815623a78258">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\TestResults\Steven_STEVEN-PC 2011-08-06 13_53_43">
+      <DeploymentItem filename="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="24" executed="24" passed="23" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-08-06T13:53:43.9446000-04:00" queuing="2011-08-06T13:53:44.4596000-04:00" start="2011-08-06T13:53:44.6846000-04:00" finish="2011-08-06T13:53:45.1936000-04:00" />
+  <TestDefinitions>
+    <UnitTest name="TestEloWinEven" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="3a9820c9-7f32-03e8-abab-08d461fa78aa">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5b2fbff5-30b4-4a96-a444-db3ad9138433" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloWinEven" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooFewColPieces" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="6e68234d-eb82-8663-44a1-64d050a02568">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="90fff6f8-eb9f-4814-a64c-aa786a07c134" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooFewColPieces" />
+    </UnitTest>
+    <UnitTest name="TestInvalidEndInDelimTooFew" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="b38bb37a-5172-ee3c-38b6-8fe5de6b9b06">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8ef2a380-c66f-4183-8de2-bc244c910ca4" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidEndInDelimTooFew" />
+    </UnitTest>
+    <UnitTest name="TestEloWinLower" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="bbdb4c36-5726-4427-2739-687e7f08fae2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0e8e9f89-021c-44f1-b603-b22056b42279" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloWinLower" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooManyRows" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="59fb97fd-0926-cbb1-e498-664825d78d6f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="574e8ed9-ae24-4a4c-9b80-bc72089806be" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooManyRows" />
+    </UnitTest>
+    <UnitTest name="TestEloModLoss" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="afb4e21b-de84-8013-1451-d223e3f2ef3b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7dc31917-b4cd-4ee3-b379-6a6343ecc839" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloModLoss" />
+    </UnitTest>
+    <UnitTest name="TestEloLoseEven" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="25019b72-d149-ffea-f28e-b1a59ae50d6c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7993e25c-c0c6-4399-9b27-1b09d5cd7551" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloLoseEven" />
+    </UnitTest>
+    <UnitTest name="TestInvalidEndInDelimTooMany" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="346548ab-9e9f-b358-9be4-2fa0a7880357">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9c5a54a8-663d-4d6c-b34c-02340ff24dbe" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidEndInDelimTooMany" />
+    </UnitTest>
+    <UnitTest name="TestEloLoseLower" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="521b0daf-0a93-456b-f3c1-eafb7701d031">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="df049867-2908-40be-afe4-f04e0b17d60e" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloLoseLower" />
+    </UnitTest>
+    <UnitTest name="TestEloModWin" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="bccda867-873b-89e1-132a-ab15b9a3380c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ad0ef2b4-f920-4ebe-9b3e-ed646b0500c1" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloModWin" />
+    </UnitTest>
+    <UnitTest name="TestEloDrawEven" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="73f9b3c4-9390-5a5e-1010-bc4cc3c0e394">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c7bd8eb7-6ba7-44ec-b8b0-8676d44dbfb4" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloDrawEven" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooManyColPieces" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="cf9cc314-967e-4b26-2815-cda7abe3335c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="479b0404-8033-4e63-a3b7-9cd0185437cc" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooManyColPieces" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooFewRows" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="20416769-a17d-cce0-b09a-1729b9bea58e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4917a713-9482-4331-b1bc-2cdaad61fa33" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooFewRows" />
+    </UnitTest>
+    <UnitTest name="TestEloDrawLower" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="1ea56efe-29a7-c41e-8b4f-e92c908ed160">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7c7914a0-fdb7-444b-aaf2-967e44fbc069" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloDrawLower" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooFewColEmpty" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="282cfed9-13ec-86b3-ab50-1067eca9207f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8f6fe42e-cea1-4f3b-a5f4-beb295beb7d8" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooFewColEmpty" />
+    </UnitTest>
+    <UnitTest name="TestEloLoseHigher" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="2aafeb69-55fd-f149-332f-39f1ece146bf">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="dd15bde4-a4b5-4250-8315-bfb45edaac48" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloLoseHigher" />
+    </UnitTest>
+    <UnitTest name="TestInvalidConsecutiveGaps" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="a4fc1eff-ece3-3999-fe08-b47f2b9e7d46">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3a3b542c-743f-425f-bff4-d56302ef49bc" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidConsecutiveGaps" />
+    </UnitTest>
+    <UnitTest name="TestInvalidZeroGap" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="a28e5afa-ac1f-3183-a503-5aae3856596d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="95c7a524-e5a3-4af7-8fe0-36d897763a59" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidZeroGap" />
+    </UnitTest>
+    <UnitTest name="TestEloWinHigher" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="4067d726-029b-d64d-be5e-0173ae1e472f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a98d2200-d703-42ac-a19c-b755104e9637" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloWinHigher" />
+    </UnitTest>
+    <UnitTest name="TestInvalidUnknownNotation" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="11fae8d9-ccb4-7d7a-e80c-8ae5c16e23c2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9c064e7b-5199-438a-acff-1feb96a6ac22" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidUnknownNotation" />
+    </UnitTest>
+    <UnitTest name="TestInvalidTooManyColEmpty" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="cd3193dd-98af-1ce1-f1cb-940a4d01ba11">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="fcf779a3-cb67-4a0c-a6cd-a5b16af2cfcb" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestInvalidTooManyColEmpty" />
+    </UnitTest>
+    <UnitTest name="TestFromFenValid" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="d079c161-d78e-0564-f2bf-f2f8c4937fe3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="11ff4642-3948-4c10-88e7-c2998d0798eb" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.FenUnitTest, ChessGameLib.Test" name="TestFromFenValid" />
+    </UnitTest>
+    <UnitTest name="TestEloModDraw" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="361a2c15-4903-0dcc-e852-1f1bb7e3d573">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2bf40ca2-3d0c-45cd-a2ba-d8c8e0a424b5" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloModDraw" />
+    </UnitTest>
+    <UnitTest name="TestEloDrawHigher" storage="d:\documents\development\2-player chess - new engine\chessgame\chessgamelib.test\bin\debug\chessgamelib.test.dll" id="e54c4302-6763-8eef-7764-76bf789823fb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ae8216b8-b349-401f-b6e8-e731b1599c02" />
+      <TestMethod codeBase="D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChessGameLib.Test.EloTest, ChessGameLib.Test" name="TestEloDrawHigher" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="11fae8d9-ccb4-7d7a-e80c-8ae5c16e23c2" executionId="9c064e7b-5199-438a-acff-1feb96a6ac22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ea56efe-29a7-c41e-8b4f-e92c908ed160" executionId="7c7914a0-fdb7-444b-aaf2-967e44fbc069" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="20416769-a17d-cce0-b09a-1729b9bea58e" executionId="4917a713-9482-4331-b1bc-2cdaad61fa33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="25019b72-d149-ffea-f28e-b1a59ae50d6c" executionId="7993e25c-c0c6-4399-9b27-1b09d5cd7551" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="282cfed9-13ec-86b3-ab50-1067eca9207f" executionId="8f6fe42e-cea1-4f3b-a5f4-beb295beb7d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2aafeb69-55fd-f149-332f-39f1ece146bf" executionId="dd15bde4-a4b5-4250-8315-bfb45edaac48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="346548ab-9e9f-b358-9be4-2fa0a7880357" executionId="9c5a54a8-663d-4d6c-b34c-02340ff24dbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="361a2c15-4903-0dcc-e852-1f1bb7e3d573" executionId="2bf40ca2-3d0c-45cd-a2ba-d8c8e0a424b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a9820c9-7f32-03e8-abab-08d461fa78aa" executionId="5b2fbff5-30b4-4a96-a444-db3ad9138433" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4067d726-029b-d64d-be5e-0173ae1e472f" executionId="a98d2200-d703-42ac-a19c-b755104e9637" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="521b0daf-0a93-456b-f3c1-eafb7701d031" executionId="df049867-2908-40be-afe4-f04e0b17d60e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59fb97fd-0926-cbb1-e498-664825d78d6f" executionId="574e8ed9-ae24-4a4c-9b80-bc72089806be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6e68234d-eb82-8663-44a1-64d050a02568" executionId="90fff6f8-eb9f-4814-a64c-aa786a07c134" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="73f9b3c4-9390-5a5e-1010-bc4cc3c0e394" executionId="c7bd8eb7-6ba7-44ec-b8b0-8676d44dbfb4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a28e5afa-ac1f-3183-a503-5aae3856596d" executionId="95c7a524-e5a3-4af7-8fe0-36d897763a59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4fc1eff-ece3-3999-fe08-b47f2b9e7d46" executionId="3a3b542c-743f-425f-bff4-d56302ef49bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afb4e21b-de84-8013-1451-d223e3f2ef3b" executionId="7dc31917-b4cd-4ee3-b379-6a6343ecc839" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b38bb37a-5172-ee3c-38b6-8fe5de6b9b06" executionId="8ef2a380-c66f-4183-8de2-bc244c910ca4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbdb4c36-5726-4427-2739-687e7f08fae2" executionId="0e8e9f89-021c-44f1-b603-b22056b42279" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bccda867-873b-89e1-132a-ab15b9a3380c" executionId="ad0ef2b4-f920-4ebe-9b3e-ed646b0500c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd3193dd-98af-1ce1-f1cb-940a4d01ba11" executionId="fcf779a3-cb67-4a0c-a6cd-a5b16af2cfcb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf9cc314-967e-4b26-2815-cda7abe3335c" executionId="479b0404-8033-4e63-a3b7-9cd0185437cc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d079c161-d78e-0564-f2bf-f2f8c4937fe3" executionId="11ff4642-3948-4c10-88e7-c2998d0798eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e54c4302-6763-8eef-7764-76bf789823fb" executionId="ae8216b8-b349-401f-b6e8-e731b1599c02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9c064e7b-5199-438a-acff-1feb96a6ac22" testId="11fae8d9-ccb4-7d7a-e80c-8ae5c16e23c2" testName="TestInvalidUnknownNotation" computerName="STEVEN-PC" duration="00:00:00.0176761" startTime="2011-08-06T13:53:44.7786000-04:00" endTime="2011-08-06T13:53:44.9906000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7c7914a0-fdb7-444b-aaf2-967e44fbc069" testId="1ea56efe-29a7-c41e-8b4f-e92c908ed160" testName="TestEloDrawLower" computerName="STEVEN-PC" duration="00:00:00.0024429" startTime="2011-08-06T13:53:44.9926000-04:00" endTime="2011-08-06T13:53:44.9986000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4917a713-9482-4331-b1bc-2cdaad61fa33" testId="20416769-a17d-cce0-b09a-1729b9bea58e" testName="TestInvalidTooFewRows" computerName="STEVEN-PC" duration="00:00:00.0003305" startTime="2011-08-06T13:53:44.9986000-04:00" endTime="2011-08-06T13:53:45.0046000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7993e25c-c0c6-4399-9b27-1b09d5cd7551" testId="25019b72-d149-ffea-f28e-b1a59ae50d6c" testName="TestEloLoseEven" computerName="STEVEN-PC" duration="00:00:00.0003281" startTime="2011-08-06T13:53:45.0066000-04:00" endTime="2011-08-06T13:53:45.0096000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8f6fe42e-cea1-4f3b-a5f4-beb295beb7d8" testId="282cfed9-13ec-86b3-ab50-1067eca9207f" testName="TestInvalidTooFewColEmpty" computerName="STEVEN-PC" duration="00:00:00.0002659" startTime="2011-08-06T13:53:45.0096000-04:00" endTime="2011-08-06T13:53:45.0146000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dd15bde4-a4b5-4250-8315-bfb45edaac48" testId="2aafeb69-55fd-f149-332f-39f1ece146bf" testName="TestEloLoseHigher" computerName="STEVEN-PC" duration="00:00:00.0003223" startTime="2011-08-06T13:53:45.0146000-04:00" endTime="2011-08-06T13:53:45.0196000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9c5a54a8-663d-4d6c-b34c-02340ff24dbe" testId="346548ab-9e9f-b358-9be4-2fa0a7880357" testName="TestInvalidEndInDelimTooMany" computerName="STEVEN-PC" duration="00:00:00.0002494" startTime="2011-08-06T13:53:45.0226000-04:00" endTime="2011-08-06T13:53:45.0246000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2bf40ca2-3d0c-45cd-a2ba-d8c8e0a424b5" testId="361a2c15-4903-0dcc-e852-1f1bb7e3d573" testName="TestEloModDraw" computerName="STEVEN-PC" duration="00:00:00.0008863" startTime="2011-08-06T13:53:45.0256000-04:00" endTime="2011-08-06T13:53:45.0296000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5b2fbff5-30b4-4a96-a444-db3ad9138433" testId="3a9820c9-7f32-03e8-abab-08d461fa78aa" testName="TestEloWinEven" computerName="STEVEN-PC" duration="00:00:00.0004485" startTime="2011-08-06T13:53:45.0346000-04:00" endTime="2011-08-06T13:53:45.0376000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a98d2200-d703-42ac-a19c-b755104e9637" testId="4067d726-029b-d64d-be5e-0173ae1e472f" testName="TestEloWinHigher" computerName="STEVEN-PC" duration="00:00:00.0004679" startTime="2011-08-06T13:53:45.0416000-04:00" endTime="2011-08-06T13:53:45.0446000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="df049867-2908-40be-afe4-f04e0b17d60e" testId="521b0daf-0a93-456b-f3c1-eafb7701d031" testName="TestEloLoseLower" computerName="STEVEN-PC" duration="00:00:00.0003824" startTime="2011-08-06T13:53:45.0456000-04:00" endTime="2011-08-06T13:53:45.0506000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="574e8ed9-ae24-4a4c-9b80-bc72089806be" testId="59fb97fd-0926-cbb1-e498-664825d78d6f" testName="TestInvalidTooManyRows" computerName="STEVEN-PC" duration="00:00:00.0002732" startTime="2011-08-06T13:53:45.0536000-04:00" endTime="2011-08-06T13:53:45.0576000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="90fff6f8-eb9f-4814-a64c-aa786a07c134" testId="6e68234d-eb82-8663-44a1-64d050a02568" testName="TestInvalidTooFewColPieces" computerName="STEVEN-PC" duration="00:00:00.0003363" startTime="2011-08-06T13:53:45.0646000-04:00" endTime="2011-08-06T13:53:45.0666000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c7bd8eb7-6ba7-44ec-b8b0-8676d44dbfb4" testId="73f9b3c4-9390-5a5e-1010-bc4cc3c0e394" testName="TestEloDrawEven" computerName="STEVEN-PC" duration="00:00:00.0003611" startTime="2011-08-06T13:53:45.0676000-04:00" endTime="2011-08-06T13:53:45.0716000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="95c7a524-e5a3-4af7-8fe0-36d897763a59" testId="a28e5afa-ac1f-3183-a503-5aae3856596d" testName="TestInvalidZeroGap" computerName="STEVEN-PC" duration="00:00:00.0002543" startTime="2011-08-06T13:53:45.0746000-04:00" endTime="2011-08-06T13:53:45.0776000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3a3b542c-743f-425f-bff4-d56302ef49bc" testId="a4fc1eff-ece3-3999-fe08-b47f2b9e7d46" testName="TestInvalidConsecutiveGaps" computerName="STEVEN-PC" duration="00:00:00.0003587" startTime="2011-08-06T13:53:45.0806000-04:00" endTime="2011-08-06T13:53:45.0826000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7dc31917-b4cd-4ee3-b379-6a6343ecc839" testId="afb4e21b-de84-8013-1451-d223e3f2ef3b" testName="TestEloModLoss" computerName="STEVEN-PC" duration="00:00:00.0002528" startTime="2011-08-06T13:53:45.0856000-04:00" endTime="2011-08-06T13:53:45.0876000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8ef2a380-c66f-4183-8de2-bc244c910ca4" testId="b38bb37a-5172-ee3c-38b6-8fe5de6b9b06" testName="TestInvalidEndInDelimTooFew" computerName="STEVEN-PC" duration="00:00:00.0002533" startTime="2011-08-06T13:53:45.0886000-04:00" endTime="2011-08-06T13:53:45.0936000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0e8e9f89-021c-44f1-b603-b22056b42279" testId="bbdb4c36-5726-4427-2739-687e7f08fae2" testName="TestEloWinLower" computerName="STEVEN-PC" duration="00:00:00.0003242" startTime="2011-08-06T13:53:45.0966000-04:00" endTime="2011-08-06T13:53:45.0986000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ad0ef2b4-f920-4ebe-9b3e-ed646b0500c1" testId="bccda867-873b-89e1-132a-ab15b9a3380c" testName="TestEloModWin" computerName="STEVEN-PC" duration="00:00:00.0002543" startTime="2011-08-06T13:53:45.0996000-04:00" endTime="2011-08-06T13:53:45.1046000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fcf779a3-cb67-4a0c-a6cd-a5b16af2cfcb" testId="cd3193dd-98af-1ce1-f1cb-940a4d01ba11" testName="TestInvalidTooManyColEmpty" computerName="STEVEN-PC" duration="00:00:00.0002504" startTime="2011-08-06T13:53:45.1046000-04:00" endTime="2011-08-06T13:53:45.1106000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="479b0404-8033-4e63-a3b7-9cd0185437cc" testId="cf9cc314-967e-4b26-2815-cda7abe3335c" testName="TestInvalidTooManyColPieces" computerName="STEVEN-PC" duration="00:00:00.0002417" startTime="2011-08-06T13:53:45.1126000-04:00" endTime="2011-08-06T13:53:45.1146000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="11ff4642-3948-4c10-88e7-c2998d0798eb" testId="d079c161-d78e-0564-f2bf-f2f8c4937fe3" testName="TestFromFenValid" computerName="STEVEN-PC" duration="00:00:00.0158413" startTime="2011-08-06T13:53:45.1166000-04:00" endTime="2011-08-06T13:53:45.1356000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ChessGameLib.Test.FenUnitTest.TestFromFenValid threw exception:  ChessGameLib.FENException: Too many pieces specified in row!.</Message>
+          <StackTrace>    at ChessGameLib.FENSerializer.Deserialize(String s) in D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib\GameSerializer.cs:line 164
+   at ChessGameLib.Test.FenUnitTest.TestFromFenValid() in D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\FenUnitTest.cs:line 94
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ae8216b8-b349-401f-b6e8-e731b1599c02" testId="e54c4302-6763-8eef-7764-76bf789823fb" testName="TestEloDrawHigher" computerName="STEVEN-PC" duration="00:00:00.0003674" startTime="2011-08-06T13:53:45.1356000-04:00" endTime="2011-08-06T13:53:45.1536000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

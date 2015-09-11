@@ -1,0 +1,20 @@
+Pawn Promotion
+
+If a player's pawn makes it to the other side of the board without being captured, that player gets to "promote" it to a piece of their choice. The only restriction is that it can not be a king, and must not stay a pawn.
+
+Forks
+
+Forks occur when a player moves a piece so that it is attacking two pieces at once. In play, this usually occurs when one of the pieces involved is the king, and usually happens as a result of a Knight moving. When a king is forked, he must use up a turn getting out of check, allowing the attacking piece to capture the other piece freely.
+Knights are usually the pieces to fork because not only can their movement (and thus capturing) not be blocked, but unless they are attacking another knight, neither of the forked pieces can capture the knight.
+
+Pins
+
+Pins occur when a player moevs a piece so that it is attacking a piece, and the attacked piece is also the only piece between the attacker and the king. This means that if the attacked piece moves, the player would place himself in check, breaking the cardinal rule of chess. Since the attacked piece can not move until either the king moves away or another piece is moved in the way, it is said to have been "pinned".
+
+Skewers
+
+Skewers are similar to pins, but with the two enemy pieces in a reverse situation, with the king being attacked and another piece behind him. Since the king must move out of the way, the attacing piece is then free to take the piece behind the king. This sort of move can allow the most powerful piece on the board, a Queen, to be taken by a substantially less powerfully Bishop.
+
+Development
+
+Most pieces usually begin tucked away behind pawns at the beginnind of a game, and it is important to get them out quickly. This is called piece development, and focuses on increasing the number of pieces which you will be able to effectively use on any given turn. Usually piece development coincides with placing pressure on the central four squares of the chess board, whether or not they are even occupied.

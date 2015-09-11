@@ -1,0 +1,26 @@
+There are 6 different pieces on the board (Pawn, Knight, Bishop, Rook, Queen, and King) and each one their own unique move set. Many of them are similar to the move sets of other pieces, but they all have distinct differences. For example, pawns are the only piece that can only move forward and not backwards.
+
+Pawns
+
+Pawns  have the most basic pieces on the board yet, as you will see both here and in later sections, are one of the most complex overall.
+Each side has 8 pawns, and they are initially placed just in front of all their other pieces. Typically, pawns only move in a straight line forward, unless they're are capturing an opponent's piece. Pawns capture on a diagonal on either side in the direction that they would normally move. Pawns are the only piece which captures with a different move pattern than they would normally move. From their initial spot, they can move either 1 or 2 spaces forward, and any subsequent moves can only be one square forward.
+
+Knights
+
+Knights are a unique piece on the chess board. Unlike any of the other pieces, their movement can not be blocked by other pieces on the board, and can effectively "hop over" other pieces. They can not move as far as most other pieces, though. Knights move in an 'L' shape, 2 squares along 1 axis (left/right or up/down), and one square along the another.
+
+Bishops
+
+Bishops move on a 45 degree diagonal, equal to moving one square over for every square they move up or down. Their only bounds when moving are other pieces being in the way and the edges of the board itself.
+
+Rooks
+
+Rooks are move strikingly similarly to Bishops, except that instead of moving on a diagonal, they move straight along the squares, moving either up/down or left/right. This allows them to cover any coloured square, while bishops are restricted to covering just one colour of square.
+
+Queens
+
+Queens are essentially two pieces in one: a Rook and Bishop. Queens can move in any of the directions that they can, and have the same restrictions as well, their movement isonly bound by other pieces and the edge of the board.
+
+Kings
+
+The most important piece in the game, the king is the on that must be protected at all costs. The king is also one of the most restricted in his movement, only being able to move 1 square at a time, albeit in any direction. The King's movement essentially mirrors that of the Queen, except with a range restriction.

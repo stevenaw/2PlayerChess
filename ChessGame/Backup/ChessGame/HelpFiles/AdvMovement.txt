@@ -1,0 +1,10 @@
+Castling
+
+Castling is a unique move in which two pieces change positions in one turn. Castling can only occur if a King and one of his rooks are in their original positions, with nothing in between, if the king is not in check, ad the king has not yet moved in the game.
+When castling, the king moves over two squares, and the rook he moves towards is placed on the other side of him. Not only can the king not end up in check after castling, but the square he passes over must also not be under attack by his opponent's piece.
+Castling can only be done at most once per side per game, and serves as a way to get the king towards the corner of the board, where it is usually less dangerous. An old axiom says "Castle early, castle often".
+
+En Passant
+
+Possibly the least known of any legal chess move, en passant requires strict conditions to be met to be performed. En Passant can be performed when a player moves a pawn from it's starting position forward 2 squares, and it ends upright beside an opponent's pawn. If this happens, the opponent is allowed to capture the square that this pawn jumped past on his next move, and then remove the pawn from the board.
+This can only happen on the move following the pawn's initial advancement, however. If it is not done then, it can never be done.

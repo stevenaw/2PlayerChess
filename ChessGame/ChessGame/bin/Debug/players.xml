@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players>
+  <player id="1" name="Test1" rating="1032" wins="9" losses="7" draws="0" />
+  <player id="2" name="Test2" rating="952" wins="7" losses="10" draws="0" />
+</players>

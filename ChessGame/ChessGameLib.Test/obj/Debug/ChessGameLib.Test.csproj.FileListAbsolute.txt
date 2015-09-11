@@ -1,0 +1,7 @@
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.Test.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\bin\Debug\ChessGameLib.pdb
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\obj\Debug\ChessGameLib.Test.dll
+D:\Documents\Development\2-Player Chess - New Engine\ChessGame\ChessGameLib.Test\obj\Debug\ChessGameLib.Test.pdb

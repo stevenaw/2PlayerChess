@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\Development\2-Player Chess\ChessGame\ChessGameLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Development\2-Player Chess\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess\ChessGame\ChessGameLib\bin\Debug\ChessGameLib.pdb
+C:\Users\Steven\Documents\Development\2-Player Chess\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.dll
+C:\Users\Steven\Documents\Development\2-Player Chess\ChessGame\ChessGameLib\obj\Debug\ChessGameLib.pdb
